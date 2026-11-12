@@ -2,7 +2,7 @@
 <h3 align="center">Embedded Systems | IoT | Firmware Developer | Electronics Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;IoT+Enthusiast;STM32+%7C+ESP32+%7C+Raspberry+Pi;Firmware+Developer;Open+to+Embedded+Engineering+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Developer;IoT+Developer;STM32+%7C+ESP32+%7C+Raspberry+Pi;Firmware+Developer;Open+to+Embedded+Engineering+Opportunities" />
 </p>
 
 ---
